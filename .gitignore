@@ -24,3 +24,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# generated gerber files
+gerbers/
+
+# 3D printer output
+*.stl
